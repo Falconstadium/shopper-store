@@ -1,7 +1,7 @@
 const Loading = () => {
   return (
     // <!-- From Uiverse.io by clarencedion -->
-    <div className="flex min-h-screen items-center justify-center">
+    <div className="flex min-h-screen items-center justify-center bg-gray-50">
       <div className="relative">
         <div className="relative h-32 w-32">
           <div
